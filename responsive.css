@@ -1,4 +1,12 @@
-/* Responsive styles */
+/*   
+Theme Name: Josh's WordPress Site
+Theme URI: http://joshwhitkin.com
+Description: Josh’s WordPress theme.
+Author: Me
+Author URI: http://joshwhitkin.com
+Version: 1
+*/ 
+
 
 @media only screen and (max-width: 1100px) {
     .bg1 {
